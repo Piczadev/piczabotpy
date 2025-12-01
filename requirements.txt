@@ -1,4 +1,7 @@
-pygame-ce
+pygame
+Pillow
+pytmx
+numpy
 black
 flake8
 mypy
