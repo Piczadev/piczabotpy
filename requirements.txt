@@ -1,0 +1,5 @@
+pygame-ce
+black
+flake8
+mypy
+pytest
